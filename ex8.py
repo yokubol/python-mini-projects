@@ -1,5 +1,5 @@
 # assign a variable as a formatted string with 4 substitutable brackets
-formatter = "{} {} {} {}"
+formatter = "{} {} {}"
 # display numbers on the screen using formatted string
 print(formatter.format(1, 2, 3, 4))
 # display words on the screen using formatted string
