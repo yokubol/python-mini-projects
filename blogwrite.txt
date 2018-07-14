@@ -1,0 +1,9 @@
+Note: This project is an exerpt of exercise 10 from the book 'Learn Python The Hard Way'
+
+1. assign variables as strings with escape symbols
+2. assign a variable with escape symbols using three double-quotes
+3. display strings from assigned variables above
+
+Result:
+
+Source code can be found here.
