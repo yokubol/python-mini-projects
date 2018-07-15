@@ -1,9 +1,16 @@
-Note: This project is an exerpt of exercise 10 from the book 'Learn Python The Hard Way'
+Note: This project is an exerpt of exercise 17 from the book 'Learn Python The Hard Way'
 
-1. assign variables as strings with escape symbols
-2. assign a variable with escape symbols using three double-quotes
-3. display strings from assigned variables above
+In this project we will do the following:
+1. Import argument variable argv from sys module.
+2. Unpack the argument variable 'argv'.
+3. Tell user that program is going to copy all contents from
+the original file to the newly created file.
+4. Open file. Then read the file. 
+Then assign the string in a variable 'data'.
+5. Open a newly-created file in write mode.
+6. Write string from 'indata' into the newly-created file.
+7. Close the written file.
 
 Result:
 
-Source code can be found here.
+Source code

@@ -28,14 +28,19 @@ txt = target.read()
 
 findtext = '#'
 
-i = 1
+index = 1
+line_current = 0
 
 for line in lines:
+	line_current += 1
 	if findtext in line:
 		#print(line)
+		line_count_next += 1
 		line = line.replace("#", "")
-		newblog.write(f"{i}.{line}")
-		i += 1
+		if line
+		newblog.write(f"{index}.{line}")
+		index += 1
+		
 
 newblog.write("\n")
 newblog.write("Result:\n\n")
