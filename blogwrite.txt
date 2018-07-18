@@ -1,15 +1,28 @@
-Note: This project is an exerpt of exercise 17 from the book 'Learn Python The Hard Way'
+Note: This project is an exerpt of exercise 21 from the book 'Learn Python The Hard Way'
 
 In this project we will do the following:
-1. Import argument variable argv from sys module.
-2. Unpack the argument variable 'argv'.
-3. Tell user that program is going to copy all contents from
-the original file to the newly created file.
-4. Open file. Then read the file. 
-Then assign the string in a variable 'data'.
-5. Open a newly-created file in write mode.
-6. Write string from 'indata' into the newly-created file.
-7. Close the written file.
+1. Define a function that adds up two numbers.
+2. Define a function that subtracts two numbers.
+3. Define a function that multiplies two numbers.
+4. Define a function that devides two numbers.
+5. Tell user that program is going to do math.
+6. Use the add function to add 30 with 5 
+then assign the value to a variable 'age'.
+7. Use the subtract function to subtract 4 from 78
+then assign the value to a variable 'height'.
+8. Use the multiply function to multiply 90 with 2
+then assign the value to a variable 'weight'.
+9. Use the devide function to devide 100 with 2
+then assign the value to a variable 'iq'.
+10. Print out a sentence to tell variable age, height, weight, iq.
+11. Tell user that program is going to print out a puzzle.
+12. Use the functions to do: age + (height - weight * iq / 2)
+13. Do: age + (height - weight * iq / 2) without using those functions.
+14. Tell user the calculated values from the above lines.
+15. Assign variables needed for later calculations.
+16. Define a function 'find_area' that calculates an area of a triangle.
+17. Tell user the area of a triangle using the 'find_area' function.
+18. Tell user the area of a triangle using the 'multiply' function.
 
 Result:
 
